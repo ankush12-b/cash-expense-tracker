@@ -131,3 +131,4 @@ No data selling
 No ads
 100% free, 100% private, 100% yours
 
+Use of AI tools was taken into consideration for this project.
